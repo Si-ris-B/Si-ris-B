@@ -1,5 +1,5 @@
 Hello there 👋  
-A **Software Developer** by day ☼ and an **AI/ML Enthusiast** by night ☾  
+A **Fullstack Software Developer** by day ☼ and an **AI/ML Enthusiast** by night ☾  
 
 **Software Engineer**;  
 
